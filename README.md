@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d12trict
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning ethical hacking
+- 🌱 I’m currently learning anything to pass the time
 - 📫 How to reach me ... don't... for now.
 
 <!---
